@@ -1,0 +1,24 @@
+{
+  "project_root": ".",
+  "adb_path": "platform-tools/adb.exe",
+  "output_dir": "data/exports",
+  "log_dir": "data/logs",
+  "screenshot_dir": "data/screenshots",
+  "raw_dir": "data/raw",
+  "default_serial": null,
+  "enable_mitm": false,
+  "platforms": {
+    "douyin": {
+      "package_name": "com.ss.android.ugc.aweme"
+    },
+    "taobao": {
+      "package_name": "com.taobao.taobao"
+    },
+    "jd": {
+      "package_name": "com.jingdong.app.mall"
+    },
+    "pinduoduo": {
+      "package_name": "com.xunmeng.pinduoduo"
+    }
+  }
+}
