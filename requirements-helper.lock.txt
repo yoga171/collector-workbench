@@ -1,0 +1,4 @@
+# Installed and verified local environment; Python 3.11.9
+imageio-ffmpeg==0.6.0
+pip==26.1.2
+setuptools==65.5.0

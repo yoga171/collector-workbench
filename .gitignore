@@ -1,0 +1,17 @@
+data/
+runtime/
+release/
+backups/
+.venv/
+**/__pycache__/
+**/cookies/
+**/downloads/
+**/browser_profile/
+**/browser_data/
+**/data.db*
+**/*.sqlite*
+**/douyin_cookie.txt
+**/config.json
+**/schedule_jobs/
+.env
+*.log
